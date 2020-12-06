@@ -13,5 +13,3 @@ I did not ask author if i can release this, though I'm not sure if its even nece
 If so, you can take this post down. 
 
 I suggest you add some logs for prizes, but thats all up to you to do
-
-https://github.com/Slerbamonsteri/esx_gifts
